@@ -7,6 +7,3 @@ HTML and basic CSS.
 Ashik Madhu  
 Computer Science Engineering student at SJCET Palai.
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/ashik-madhu-6b7695385/
-- GitHub: https://github.com/AshikMadhu
