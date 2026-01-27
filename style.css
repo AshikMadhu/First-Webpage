@@ -1,0 +1,34 @@
+body {
+    background-color: #e6f2ff;
+    font-family: Arial;
+}
+
+.box {
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #003366;
+}
+
+h3 {
+    color: #555;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+a:hover {
+    color: #cc0000;
+}
