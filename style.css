@@ -1,12 +1,10 @@
-JUST MAKE THE COLOURS DIFFERENT OF THIS CSS FILE ..NOT OTHER CAHAGES..
-
 body {
-    background-color: #e6f2ff;
+    background-color: #f4f6f9;
     font-family: Arial;
 }
 
 .box {
-    background-color: white;
+    background-color: #ffffff;
     width: 70%;
     margin: auto;
     padding: 20px;
@@ -14,23 +12,24 @@ body {
 }
 
 h1 {
-    color: #003366;
+    color: #1f2d3d;
 }
 
 h3 {
-    color: #555;
+    color: #5a6a7a;
 }
 
 p {
     font-size: 16px;
     line-height: 1.6;
+    color: #333333;
 }
 
 a {
     text-decoration: none;
-    color: #0066cc;
+    color: #0a66c2;
 }
 
 a:hover {
-    color: #cc0000;
+    color: #084a8c;
 }
